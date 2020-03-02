@@ -4,6 +4,7 @@
 Este proyecto consiste en participar en [esta competición de Kaggle](https://www.kaggle.com/c/diamonds-datamad0120) y entrenar el mejor modelo de machine learning para predecir con exactitud el precio de los diamantes.
 
 ### ¿Qué pasos he seguido?
+
 En primer lugar he tenido que investigar sobre el precio de los diamantes y las variables que influyen en él para poder trabajar con en la limpieza de los datos con conocimiento.
 
 En segundo lugar, he realizado una limpieza básica de los datos con pandas.
