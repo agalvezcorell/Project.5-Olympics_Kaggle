@@ -16,3 +16,6 @@ En primer lugar, entrené el modelo RandomForestRegressor y comprobé que aunque
 Después, me he centrado en H2O y, en concreto, en estudiar su AutoModel, que lo que hace básicamente es entrenar 50 modelos y darte una tabla con el que más se ajusta a tus datos en función de la métrica que lo quieras ordenar.
 
 Mi mejor puntuación la he conseguido entrenando todos los modelos durante 2h (entrenando más horas obtenía los mismos resultados) con el modelo XGBoost.
+
+
+![Presentación de proceso](https://github.com/agalvezcorell/Project.5-Olympics_Kaggle/blob/master/output/resumenproceso.jpg)
